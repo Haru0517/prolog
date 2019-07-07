@@ -1,3 +1,4 @@
+
 # prolog
 prolog code in advanced lecture on programing languages
 
@@ -12,3 +13,6 @@ prolog code in advanced lecture on programing languages
 
 ## 対話モード終了方法
 `Ctrl+D`もしくは`halt.`で終了．
+
+## Exercise回答
+https://github.com/dragonwasrobot/learn-prolog-now-exercises
